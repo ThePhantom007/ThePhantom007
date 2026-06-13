@@ -9,7 +9,7 @@
 
 ### My GitHub Trophies
 
-[![GitHub Trophy](https://github-profile-trophy-fork-two.vercel.app/?username=ThePhantom007&theme=nord&title=Commits,PullRequest,Issues,Repositories,Experience&column=5&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy-fork-two.vercel.app/?username=ThePhantom007&theme=nord&title=Commits,PullRequest,Stars,Repositories,Experience&column=5&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -26,19 +26,29 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Sklearn" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=databricks&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-### Competitive Programming
+### Data Structures & Algorithms (DSA)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Knight" />
-  <img src="https://img.shields.io/badge/CodeForces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces Specialist" />
+  <a href="https://leetcode.com/u/MehulGupta007/">
+    <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Knight" />
+  </a>
 </p>
 
 <p align="left">
@@ -53,15 +63,24 @@
 
 ---
 
+### Competitive Programming (CP)
+
+<p align="left">
+  <a href="https://codeforces.com/profile/Mehul_Gupta007">
+    <img src="https://img.shields.io/badge/CodeForces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces Specialist" />
+  </a>
+  <a href="https://www.codechef.com/users/thephantom_007">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
+
+---
+
 ### Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/mehul-gupta-21ab87382/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
----
-
-[![Mehul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThePhantom007&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
