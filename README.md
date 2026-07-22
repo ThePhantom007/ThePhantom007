@@ -52,13 +52,9 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&query=%24.totalSolved&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FMehulGupta007&color=88C0D0&labelColor=2E3440&logo=leetcode&logoColor=FFA116&maxAge=86400&v=20260719" alt="LeetCode Solved" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Global%20Rank&query=%24.ranking&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FMehulGupta007&color=81A1C1&labelColor=2E3440&maxAge=86400&v=20260719" alt="LeetCode Rank" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Easy&query=%24.easySolved&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FMehulGupta007&color=A3BE8C&labelColor=2E3440&maxAge=86400&v=20260719" alt="LeetCode Easy" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Medium&query=%24.mediumSolved&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FMehulGupta007&color=EBCB8B&labelColor=2E3440&maxAge=86400&v=20260719" alt="LeetCode Medium" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Hard&query=%24.hardSolved&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FMehulGupta007&color=BF616A&labelColor=2E3440&maxAge=86400&v=20260719" alt="LeetCode Hard" />
+  <a href="https://leetcode.com/u/MehulGupta007/">
+    <img src="https://leetcard.jacoblin.cool/MehulGupta007?theme=nord&font=Fira%20Code&ext=activity" alt="Mehul's LeetCode stats" />
+  </a>
 </p>
 
 ---
